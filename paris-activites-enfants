@@ -1,0 +1,14 @@
+paris-activites-enfants/
+ ├─ app.json
+ ├─ eas.json
+ ├─ package.json
+ ├─ App.js
+ ├─ babel.config.js
+ └─ src/
+     ├─ screens/
+     │    └─ HomeScreen.js
+     ├─ components/
+     │    ├─ ActivityCard.js
+     │    └─ GDPRConsent.js
+     └─ data/
+          └─ activities.json
