@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Cours de danse",
+    "day": "Mercredi",
+    "time": "14h - 15h",
+    "arrondissement": "75017",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Atelier peinture",
+    "day": "Samedi",
+    "time": "10h - 12h",
+    "arrondissement": "75015",
+    "available": false
+  }
+]
